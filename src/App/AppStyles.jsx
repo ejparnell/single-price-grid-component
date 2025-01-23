@@ -6,9 +6,11 @@ export const AppContainer = styled.div`
     height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
     padding: 25px;
     background-color: ${({ theme }) => theme.colors.grayishBlue};
+
 `
 
 export const ContentContainer = styled.div`
@@ -25,6 +27,8 @@ export const ContentContainer = styled.div`
         grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 0px;
         grid-row-gap: 0px;
+        width: 635px;
+        height: 475px;
     }
 `
 
