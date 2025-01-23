@@ -5,7 +5,7 @@ export const CardContainer = styled.div`
     display: ${({ display }) => display ? display : 'block'};
     justify-content: space-evenly;
     flex-direction: column;
-    padding: 20px;
+    padding: 30px;
 
     
     @media (min-width: ${({ theme }) => theme.breakpoints.tablet}) {
