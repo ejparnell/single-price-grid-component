@@ -31,7 +31,7 @@ function App() {
 
                     <Text color='white'>Full access for less than $1 a day</Text>
 
-                    <SignUpLinkContainer><Link>Sign Up</Link></SignUpLinkContainer>
+                    <SignUpLinkContainer><Link style={{color: 'white', textDecoration: 'none'}}>Sign Up</Link></SignUpLinkContainer>
                 </Card>
 
                 <Card $bgColor={theme.colors.lightCyan} display='flex'>
