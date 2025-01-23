@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository Hosted on GitHub](https://github.com/ejparnell/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Deployed on Netlify](https://single-price-grid-component-bp.netlify.app/)
 
 ## My process
 
