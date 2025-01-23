@@ -20,6 +20,8 @@ export const ContentContainer = styled.div`
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.6);
+    border-radius: 10px;
+    overflow: hidden;
 
     @media (min-width: ${({ theme }) => theme.breakpoints.tablet}) {
         display: grid;
